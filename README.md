@@ -4,5 +4,5 @@
 ### Universidad de La Sabana
 #### 2024 - I
 
-
+## Por: Michael Medina (0000296297) - Nicolas Urrea (0000304871)
 **Link de Trello con las historias de usuario: https://trello.com/b/S9P0wuPn/proyecto-final-daw**
