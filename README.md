@@ -5,4 +5,4 @@
 #### 2024 - I
 
 
-**Link de Trello con las historias de usuario:**
+**Link de Trello con las historias de usuario: https://trello.com/b/S9P0wuPn/proyecto-final-daw**
